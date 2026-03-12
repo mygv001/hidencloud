@@ -1,4 +1,4 @@
-name: Hidencloud Auto Renew T1  Sunday
+name: Hidencloud Auto Renew T1  周日
 
 on:
   schedule:
