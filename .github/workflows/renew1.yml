@@ -1,4 +1,4 @@
-name: Hidencloud Auto Renew T3
+name: Hidencloud Auto Renew T3 周四
 
 on:
   schedule:
