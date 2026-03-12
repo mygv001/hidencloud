@@ -2,7 +2,7 @@ name: Hidencloud Auto Renew 周四,周六
 
 on:
   schedule:
-    - cron: '13 2,14 * * 4,6'
+    - cron: '13 2 * * 3-6'
   workflow_dispatch:
 
 jobs:
